@@ -72,6 +72,7 @@ body a{
 	color: black;
 	margin-left: 0px;
 	padding: 10px;
+	border-radius:
 
 }
 
@@ -89,6 +90,25 @@ h3{
 	font-size: 40px;
 	margin-left: 50px;
 }
+
+footer a{
+	padding: 10px;
+	background-color: #004961;
+	margin-left: 50px;
+	text-decoration: none;
+	border-radius: 15px;
+	font-size: 20px;
+	text-align: center;
+}
+
+footer{
+	background-color: #505050;
+	padding: 20px;
+	border-radius: 30px;
+	padding-top: 5px;
+
+}
+
 
 
 
