@@ -117,7 +117,6 @@ div {
 img{
 	border: 10px solid black;
 }
-
-
-
-
+.yeet:hover{
+	background-color: #CACACA;
+}
